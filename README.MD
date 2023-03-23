@@ -11,10 +11,10 @@ This repository contains two Python scripts for a deep-learning model:
 
 This project requires the following dependencies to be installed:
 
-- Python 3.x
+- Python 3.7+
 - OpenCV
 - Numpy
-- Tensorflow
+- Tensorflow 1.14
 - argparse
 
 ## Usage
