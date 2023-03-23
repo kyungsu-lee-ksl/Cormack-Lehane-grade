@@ -164,7 +164,7 @@ class Model:
               callbacks: None or List[CallBack] = None,
               shuffle: bool = True,
               total_epoch: int = 100,
-              second_train_threshold: float = 0.35,
+              second_train_threshold: float = 0.75,
               save_path=None,
               save_interval=10,
               ):
