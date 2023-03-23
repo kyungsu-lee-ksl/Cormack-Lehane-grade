@@ -84,7 +84,7 @@ Unanticipated difﬁcult laryngoscopy is associated with serious airway-related 
 #### Main Architecture
 
 <p align="center">
-    <img src="assets/Fig2.tif" width="80%"\>
+    <img src="assets/Fig2.png" width="80%"\>
 </p>
 
 Figure. Convolutional neural network-based deep-learning model with a convolutional layer, pooling layer, self-attention layer, and final fully connected layer to predict difficult laryngoscopy.
