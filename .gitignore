@@ -346,13 +346,3 @@ fabric.properties
 # idea folder, uncomment if you don't need it
 # .idea
 
-samples
-raw
-dataset
-weights
-*.png
-*.npz
-
-
-dataset
-dataset_chest
